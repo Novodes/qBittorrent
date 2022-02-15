@@ -1,9 +1,10 @@
+<H1>NOTE: THIS REPO HAS BEEN FORKED IN ORDER TO SET AS AN EXAMPLE FOR THE FUNCTIONALITY OF SOFTACHECK.COM APP</H1>
+
 qBittorrent - A BitTorrent client in Qt
 ------------------------------------------
 
-[![AppVeyor Status](https://ci.appveyor.com/api/projects/status/github/qbittorrent/qBittorrent?branch=master&svg=true)](https://ci.appveyor.com/project/qbittorrent/qBittorrent)
-[![GitHub Actions CI Status](https://github.com/qbittorrent/qBittorrent/workflows/GitHub%20Actions%20CI/badge.svg)](https://github.com/qbittorrent/qBittorrent/actions)
-[![Coverity Status](https://scan.coverity.com/projects/5494/badge.svg)](https://scan.coverity.com/projects/5494)
+[![Softacheck](https://softacheck.com/app/repository/Novodes/qBittorrent/badge)](https://softacheck.com/app/repository/Novodes/qBittorrent/issues)
+
 ********************************
 ### Description:
 qBittorrent is a bittorrent client programmed in C++ / Qt that uses
@@ -48,8 +49,3 @@ http://bugs.qbittorrent.org
 Official IRC channel:
 [#qbittorrent on irc.libera.chat](ircs://irc.libera.chat:6697/qbittorrent)
 
-------------------------------------------
-sledgehammer999 \<sledgehammer999@qbittorrent.org\>
-
-
-test
