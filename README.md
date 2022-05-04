@@ -4,6 +4,7 @@ qBittorrent - A BitTorrent client in Qt
 ------------------------------------------
 
 [![Softacheck](https://softacheck.com/app/repository/Novodes/qBittorrent/badge)](https://softacheck.com/app/repository/Novodes/qBittorrent/issues)
+[![Documentation](https://softacheck.com/app/repository/Novodes/qBittorrent/documentation/badge)](https://softacheck.com/app/docs/Novodes/qBittorrent/)
 
 ********************************
 ### Description:
